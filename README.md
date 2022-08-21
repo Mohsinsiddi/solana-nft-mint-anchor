@@ -6,6 +6,6 @@
 
 # 2.) update programId in lib.rs and in Anchor.toml files
 
-# 3.) nanchor build && anchor deploy
+# 3.) anchor build && anchor deploy
 
 # 4.) Mint NFT on solana by running $ anchor run test
